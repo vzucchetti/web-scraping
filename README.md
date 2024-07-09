@@ -154,20 +154,20 @@ Now, we run the script with the streamlit application in terminal to visualize t
 streamlit run dashboard/app.py
 ```
 ---------------------------------------------------------------------
->**OBS**: all commands for
->1. extraction:
->```bash
->scrapy crawl mercadolivre -o data.jsonl
->```
->2. transformation and load:
->```bash
->python transformation/main.py
->```
->3. dashboard creation:
->```bash
->streamlit run dashboard/app.py
->```
->need to be run inside the `src` folder.
+**OBS**: all commands for
+1. extraction:
+```bash
+scrapy crawl mercadolivre -o data.jsonl
+```
+2. transformation and load:
+```bash
+python transformation/main.py
+```
+3. dashboard creation:
+```bash
+streamlit run dashboard/app.py
+```
+need to be run inside the `src` folder.
 
 ## Final comments
 
