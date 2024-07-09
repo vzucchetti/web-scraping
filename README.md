@@ -171,6 +171,6 @@ need to be run inside the `src` folder.
 
 ## Final comments
 
-Here is a complet project from begining to end, with ETL of data, analysis and creating of dashboard to data view. This project was completely executed with open-source tools and using Python.
+Here is a complete project from beginning to end, with ETL of data, analysis and creating of dashboard to data view. This project was completely executed with open-source tools and using Python.
 
 ![all tools used in the project](workflow.png)
