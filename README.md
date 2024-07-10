@@ -8,7 +8,7 @@ This project simulates a real-world need for a large shoe company looking to ana
 
 - Identify the most prevalent brands across the first 20 pages of search results.
 - Calculate the average price of sports shoes for each brand.
-- Determine the average customer satisfaction (based on reviews) for each brand.
+- Determine each brand’s average customer satisfaction (based on reviews).
 
 We'll achive this using a robust **ETL (Extract, Transform, and Load) pipeline** built with Python and popular open-source libraries:
 
